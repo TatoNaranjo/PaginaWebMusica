@@ -28,8 +28,7 @@ section {
     position: relative;
     background-color: white;
     right: -112px;
-    width: 140px;
-    height: 140px;
+  display: inline-block;
     font-size: 28px;
     
 }
